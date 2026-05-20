@@ -10,14 +10,16 @@ Math & Finance grad (UGA '25) with a CS minor. I spend my days thinking about ho
 
 ### What's here
 
-Personal projects and experiments — some half-baked, some quarter-baked. My sweet spot is anywhere math and code overlap: financial models, ML experiments, generative AI applications. I'm actively building this out, so check back often.
+Personal projects and experiments. Some half-baked, some quarter-baked. My sweet spot is anywhere math and code overlap: financial models, ML experiments, generative AI applications. I'm actively building this out, so check back often.
 
 ### Currently exploring
 
-Stochastic modeling · Numerical methods & optimization · What's actually under the hood in ML · Building real GenAI applications (not just prompting)
+Machine Learning
+Numerical methods & optimization
+GenAI applications
 
 ### Looking to collaborate on
 
-Projects at the intersection of math, data, and code. Newer to open source contribution but serious about it — financial modeling, ML, and scientific computing are my lanes. If you're building something here and could use another set of hands, reach out.
+Projects at the intersection of math, data, and code. 
 
 Outdoors · Bridge · Poker · Good company &nbsp;·&nbsp; 📫 lawsonmatthewt@gmail.com
